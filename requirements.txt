@@ -1,0 +1,17 @@
+ipykernel
+python-dotenv
+langchain
+langchain-community
+langchain_groq
+pandas
+streamlit
+langchain_core
+langchain_google_genai
+langchain_text_splitters
+langchain_classic
+pypdf
+sentence-transformers 
+langchain-huggingface
+torchvision
+faiss-cpu
+langchain-chroma
